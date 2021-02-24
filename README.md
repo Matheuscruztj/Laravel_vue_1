@@ -1,2 +1,9 @@
-# Laravel_vue_1
- Projeto de teste criado com API Laravel + Eloquent Basico e front com VueJS
+Projeto de cadastro de usuários.
+
+Tecnologias utilizadas:
+
+ 1. API:
+	- Laravel
+	- PostgreSQL
+2. Front-End:
+	- Vue
